@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/demo-angular-algolia",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
